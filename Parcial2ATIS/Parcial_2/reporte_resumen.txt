@@ -1,0 +1,12 @@
+== Top 3 aulas por horas ==
+1) F303 (PRA2) - 3.00 horas
+2) C201 (C203) - 2.00 horas
+
+== Ocupación por tipo de aula (h) ==
+- TEORICA    : 2.00
+- LABORATORIO: 3.00
+- AUDITORIO  : 0.00
+
+== Distribución por tipo de reserva ==
+- PRACTICA: 1
+- CLASE   : 1
